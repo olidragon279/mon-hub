@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("olidragon210 hub ", "Ocean")
+local Window = Library.CreateLib("olidragon210 hub ", "LightTheme")
 
 local Hub = Window:NewTab ("Hub")
 
